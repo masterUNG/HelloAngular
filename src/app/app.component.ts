@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Master UNG';
+  name: String = 'ChaiWoot PWK';
+  surName: String = 'Phrombutr';
+  myColor = '#FF0000';
+  myFontSize = '50px';
 }
